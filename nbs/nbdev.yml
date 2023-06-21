@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fx-test"
+  site-url: "https://dmitryhits.github.io/fx-test"
+  description: "a repository to try the code from Getting started with Forex trading Using Python Book by Alex Krishtop"
+  repo-branch: main
+  repo-url: "https://github.com/dmitryhits/fx-test"
